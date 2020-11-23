@@ -7,6 +7,7 @@
 //
 
 #import "DVViewController.h"
+#import <DVBase/NSString+Tools.h>
 
 @interface DVViewController ()
 
@@ -17,7 +18,10 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    self.view.backgroundColor = [UIColor brownColor];
+    if ([NSString tds_isEmpty:@""]) {
+        NSLog(@"字符串 为空");
+    }
 }
 
 - (void)didReceiveMemoryWarning

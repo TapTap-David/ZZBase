@@ -1,0 +1,16 @@
+PODS:
+  - DVBase (0.1.0)
+
+DEPENDENCIES:
+  - DVBase (from `../`)
+
+EXTERNAL SOURCES:
+  DVBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DVBase: e37dee291aae0918dcdaa085eaf151f048f3b8b5
+
+PODFILE CHECKSUM: ff294048d7443cd4795db40ce3fa79ac05ad96af
+
+COCOAPODS: 1.10.0

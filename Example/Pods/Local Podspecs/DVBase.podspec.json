@@ -1,0 +1,22 @@
+{
+  "name": "DVBase",
+  "version": "0.1.0",
+  "summary": "A short description of DVBase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangwenyan/DVBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangwenyan": "zhangwenyan@xd.com"
+  },
+  "source": {
+    "git": "https://github.com/zhangwenyan/DVBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DVBase/Classes/**/*"
+}

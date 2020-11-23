@@ -1,0 +1,6 @@
+framework module DVBase {
+  umbrella header "DVBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
