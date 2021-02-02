@@ -1,1 +1,8 @@
 Greating a new branch is quick & simple
+
+branch one
+
+Branch two
+
+Switch to new branch 
+
