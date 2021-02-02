@@ -12,4 +12,6 @@ Test branch
 
 Fix bug 101
 
+Fix bug 102
+
 Continue
